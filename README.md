@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**leandcar/leandcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estou trabalhando em novos projetos
 - 🌱 Atualmente estou aprendendo iA
 - 👯 Estou procurando colaborar em ...
@@ -13,9 +8,16 @@ Here are some ideas to get you started:
 - 📫 Como chegar até mim: #leandcar
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: Realidadade aumentada ...
+
+<!--
+**leandcar/leandcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
 
-## Fala Dev! Eu sou a Leandro Cardoso 
+## Fala Dev! Eu sou o Leandro Cardoso 
  <div>
   <a href="https://github.com/leandcar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandcar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="coding-leandcar" src="https://i.gifer.com/3odR.gif">
+  <img align="right" alt="coding-leandcar" height="90" width="100" src="https://camo.githubusercontent.com/b192adfb8ff465a3aa3fb799bdeb0d94774ccf150c09c8a1a209b5454cb0b64e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78484d4944417931716b7a4e532f67697068792e676966">
 </div>
   
   ##
